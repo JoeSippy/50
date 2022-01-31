@@ -1,0 +1,19 @@
+h1{
+    color: rgb(184, 129, 59);
+}
+.header{
+    background-color: beige; 
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    background-color: azure;
+    display: flex;
+    justify-content : space-evenly;
+    flex-wrap:wrap;
+}
+.item{
+    border: solid 2px rgb(98, 151, 138);
+    text-align:center
+}
